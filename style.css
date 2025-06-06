@@ -1,0 +1,82 @@
+.header {
+    color: blue;
+    background-color: rgb(255, 255, 255);
+    margin-left: 0%;
+    font-size: xx-large;
+    text-align: center;
+    margin: 0%;
+    margin-top: -10%;
+}
+
+.driver {
+    margin-left: 30%;
+    margin-top: -100px;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.mclovin {
+    margin-bottom: -0%;
+    margin-left: 29%;
+    height: 38x;
+}
+
+.number {
+    display: flex;
+    flex-direction: center;
+    margin-top: -28%;
+    margin-left: 60%;
+    font-size: xxx-large
+}
+
+.dob {
+    display: flex;
+    flex-direction: center;
+    margin-top: 2%;
+    margin-left: 59%;
+    font-size: xx-large;
+}
+
+.data {
+    display: flex;
+    margin-top: -05%;
+    margin-left: 64%;
+    font-size: xx-large;
+}
+
+.exp {
+    display: flex;
+    flex-direction: center;
+    margin-top: -6%;
+    margin-left: 75%;
+    font-size: xxx-large;
+}
+
+.data2 {
+    display: flex;
+    flex-direction: center;
+    margin-top: -06%;
+    margin-left: 82%;
+    font-size: xx-large;
+}
+
+.mclov {
+    display: flex;
+    flex-direction: center;
+    margin-top: -1%;
+    margin-left: 60%;
+    font-size: xx-large;
+}
+
+main {
+    background-color: rgb(255, 255, 255);
+    padding: 10%;
+}
+
+.address {
+    display: flex;
+    flex-direction: center;
+    margin-top: -1%;
+    margin-left: 60%;
+    font-size: xx-large;
+}
